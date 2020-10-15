@@ -1,0 +1,7 @@
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\bin\Debug\ArtProgram.exe.config
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\bin\Debug\ArtProgram.exe
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\bin\Debug\ArtProgram.pdb
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\obj\Debug\ArtProgram.csprojAssemblyReference.cache
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\obj\Debug\ArtProgram.csproj.CoreCompileInputs.cache
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\obj\Debug\ArtProgram.exe
+C:\Users\yuoen\source\repos\ArtProgram\ArtProgram\obj\Debug\ArtProgram.pdb
